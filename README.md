@@ -15,4 +15,11 @@ In our Project, we are implementing an XML Editor that can do the following:
 
 •	Compress & Decompress the data in the XML/JSON file
 
+•	Representing the users data using the Graph data structure
+
 •	GUI
+
+
+NOTE:
+We used Graphviz library to represent the graph
+We used QT creator to implement the GUI
